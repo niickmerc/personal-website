@@ -5,6 +5,9 @@ body {
   color: black;
   /* border: 10px solid #29272e; */
 }
+b {
+  color: blue;
+}
 
 .header {
   font-size: 30px;
@@ -16,61 +19,57 @@ body {
 }
 
 .img-link {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .layout-header-menu {
-width: 100%;
-height: 3rem;
-font-family: "Avenir";
-font-size: 45px;
-line-height: 2rem;
-margin-left: 4.25rem;
-color: black;
-/* table-height: 5rem; */
-background-color: white;
-
+    width: 100%;
+    height: 3rem;
+    font-family: "Avenir";
+    font-size: 45px;
+    line-height: 2rem;
+    margin-left: 6rem;
+    color: black;
+    /* table-height: 5rem; */
+    background-color: white;
 }
 
 .layout-header-spacer {
-width: 100%;
-height: 5rem;
-background-color: #29272e;
+    width: 100%;
+    height: 5rem;
+    background-color: #29272e;
 }
 
 .layout-table-spacer-outside {
-width: 4rem;
-height: 2rem;
-/* background-color: #29272e; */
+    width: 4rem;
+    height: 2rem;
 }
 
 .layout-table-spacer-in-between {
-width: 2rem;
-height: 2rem;
-/* background-color: #29272e; */
+    width: 2rem;
+    height: 2rem;
 }
 
 .profileimg {
-  border: 5px solid black;
+    border: 5px solid black;
 }
 
 a.nav-link:link {
-   color: black;
-   text-decoration: underline;
+    color: blue;
+    text-decoration: underline;
 }
 
 a.nav-link:visited {
-   color: black;
-   text-decoration: underline;
+  color: blue;
+  text-decoration: underline;
 }
 
 a.nav-link:hover {
-   color: black;
-   font-style: italic;
-   text-decoration: underline;
+  color: blue;
+  text-decoration: underline;
 }
 
 a.nav-link:active {
-   color: black;
-   text-decoration: underline;
+  color: blue;
+  text-decoration: underline;
 }
