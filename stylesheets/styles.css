@@ -29,7 +29,6 @@ b {
     line-height: 2rem;
     margin-left: 6rem;
     color: black;
-    /* table-height: 5rem; */
     background-color: white;
 }
 
@@ -50,7 +49,7 @@ b {
 }
 
 .profileimg {
-    border: 5px solid black;
+    border: 5px solid #29272e;
 }
 
 a.nav-link:link {
